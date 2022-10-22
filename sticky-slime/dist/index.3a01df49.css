@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #000;
+}
+
+canvas {
+  filter: blur(20px) contrast(40);
+  background-color: #000;
+  display: block;
+}
+
+/*# sourceMappingURL=index.3a01df49.css.map */
